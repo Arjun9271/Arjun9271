@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arjun
-- 👀 I’m interested in Datascience and Machine Learning
+- 👀 I’m Expertise in Datascience and Machine Learning
 - 🌱 I’m currently working on projects
 - 📫 How to reach me arjun.t1729@gmail.com
 
