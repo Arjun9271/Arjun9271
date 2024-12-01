@@ -1,5 +1,5 @@
 <h2 align="center">Hi there! 👋 I'm Arjun </h2>
-<p align="center">Data Scientist | AI Enthusiast</p>
+<p align="center">Data Scientist |  AI Enthusiast</p>
 
 ---
 
@@ -7,6 +7,7 @@
 <ul>
   <li>🔍 Passionate about solving real-world problems using data and AI.</li>
   <li>🌱 Continuously exploring innovative technologies like Generative AI.</li>
+  <li>💡 Building AI-powered solutions to assist visually impaired individuals.</li>
   <li>📫 Let's connect on <a href="https://www.linkedin.com/in/t-arjun-4239a4190/">LinkedIn</a>.</li>
 </ul>
 
@@ -22,7 +23,7 @@
 ---
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
@@ -61,8 +62,8 @@
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun9271&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjun9271&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun9271&" alt="GitHub Streak" /></p>
+<div align="center" style="display: flex; flex-direction: column; gap: 20px;">
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun9271&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=arjun9271&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=arjun9271&" alt="GitHub Streak" /></p>
+</div>
