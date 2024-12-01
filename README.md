@@ -1,5 +1,14 @@
-<h2 align="center">Hi there! 👋 I'm Arjun Thatha</h2>
+<h2 align="center">Hi there! 👋 I'm Arjun </h2>
 <p align="center">Data Scientist | AI Enthusiast</p>
+
+---
+
+<h3 align="left">🚀 About Me:</h3>
+<ul>
+  <li>🔍 Passionate about solving real-world problems using data and AI.</li>
+  <li>🌱 Continuously exploring innovative technologies like Generative AI.</li>
+  <li>📫 Let's connect on <a href="https://www.linkedin.com/in/t-arjun-4239a4190/">LinkedIn</a>.</li>
+</ul>
 
 ---
 
@@ -57,13 +66,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjun9271&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun9271&" alt="GitHub Streak" /></p>
-
----
-
-<h3 align="left">🚀 About Me:</h3>
-<ul>
-  <li>🔍 Passionate about solving real-world problems using data and AI.</li>
-  <li>🌱 Continuously learning cutting-edge technologies like Generative AI and MLOps.</li>
-  <li>💡 Building AI-powered solutions to assist visually impaired individuals.</li>
-  <li>📫 Let's connect on <a href="https://www.linkedin.com/in/t-arjun-4239a4190/">LinkedIn</a>.</li>
-</ul>
