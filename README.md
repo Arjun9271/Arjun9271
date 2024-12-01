@@ -7,7 +7,7 @@
 <ul>
   <li>🔍 Passionate about solving real-world problems using data and AI.</li>
   <li>🌱 Continuously exploring innovative technologies like Generative AI.</li>
-  <li>💡 Building AI-powered solutions to assist visually impaired individuals.</li>
+  <li>💡 Building AI-powered solutions.</li>
   <li>📫 Let's connect on <a href="https://www.linkedin.com/in/t-arjun-4239a4190/">LinkedIn</a>.</li>
 </ul>
 
