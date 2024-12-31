@@ -1,5 +1,6 @@
-# 💫 About Me:
-![Profile Views](https://komarev.com/ghpvc/?username=Arjun9271&color=green&style=flat)
+<h1 align="center">Arjun T</h1>
+<p align="center"> 🧑‍💻Transforming Ideas into Intelligent Solutions</p>
+
 💻 Tech Enthusiast: Skilled in Python, SQL, TensorFlow, FastAPI, and AI technologies.<br>🔍 ML & DL Expert: Proficient in machine learning, deep learning, and building scalable AI-driven systems.<br>🚀 Hands-On Experience: Developed AI-powered tools, optimized operations, and integrated APIs during impactful internships.<br>🌟 NLP & Data Pro: Experienced with vector databases (FAISS, Pinecone) and advanced data processing techniques.
 
 
@@ -17,6 +18,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Arjun9271&icon=1&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Arjun9271&color=green&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
