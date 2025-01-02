@@ -1,4 +1,4 @@
-<h1 align="center">🏹 Arjun</h1>
+<h1 align="center">Hi 👋,Im 🏹 Arjun</h1>
 <p align="center"> 🧑‍💻Transforming Ideas into Intelligent Solutions</p>
 
 💻 Tech Enthusiast: Skilled in Python, SQL, TensorFlow, FastAPI, and AI technologies.<br>🔍 ML & DL Expert: Proficient in machine learning, deep learning, and building scalable AI-driven systems.<br>🚀 Hands-On Experience: Developed AI-powered tools, optimized operations, and integrated APIs during impactful internships.<br>🌟 NLP & Data Pro: Experienced with vector databases (FAISS, Pinecone) and advanced data processing techniques.
